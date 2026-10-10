@@ -1,0 +1,5 @@
+# Softeq
+URL: https://softeq.com
+TITLE: 
+ERROR: Keyless Keenable extract failed: {"error":"Unprocessable entity","message":"The page was reached but content could not be extracted"}. Set KEENABLE_API_KEY (https://keenable.ai) for reliable service.
+

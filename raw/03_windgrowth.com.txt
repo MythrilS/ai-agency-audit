@@ -1,0 +1,111 @@
+URL: https://windgrowth.com
+TITLE: WIND.GROWTH | Custom ERP Development & AI Integration Agency
+ERROR: None
+
+# WIND.GROWTH | Custom ERP Development & AI Integration Agency
+URL: https://windgrowth.com
+
+WIND.GROWTH | Custom ERP Development & AI Integration Agency
+
+FORWARD_DEPLOYED_AI_ENGINEERS
+
+# SPEED IS THE ONLY MOAT.
+
+We walk into industries we've never seen, learn them in days, and ship custom ERPs that would take traditional agencies 12 months. We do it in weeks. AI-powered development. Zero fluff.
+
+BOOK A STRATEGY CALL VIEW PROJECTS
+
+105+ BUSINESSES SERVED // 3-12 WEEK DELIVERY // 12+ INDUSTRIES
+
+SCROLL_TO_INITIALIZE
+
+NOMI PASSKONCRETDDV FLEETALASKA FUELPREMIO TRAVELFULLCIRCL3LEVERAGE OUTBOUNDPHYROSNOMI PASSKONCRETDDV FLEETALASKA FUELPREMIO TRAVELFULLCIRCL3
+
+## FORWARD DEPLOYEDAI ENGINEERS.
+
+Palantir coined it. LinkedIn made it trendy in 2025. We've been doing it for 5 years. The people understanding your business are the same people writing your code. No translation layers. No handoffs. No guessing.
+
+### CONSULTANTS
+
+REJECTED
+
+- âHand you a PDF and leave
+- âRecommend solutions they can't build
+- âBill hours, not outcomes
+- âGone when things get hard
+
+### AGENCIES
+
+REJECTED
+
+- â6-12 months to deliver
+- âAnalysts â PMs â Designers â Devs
+- âRequirements lost in translation
+- âDeliver something that doesn't fit
+
+### WIND.GROWTH
+
+ACTIVE
+
+- âEmbed in your business, ship in weeks
+- âSame team learns, designs, and builds
+- âAI-accelerated. 3-5x faster delivery
+- âWe stay. Your system evolves with you
+
+## WHAT WE BUILD.
+
+Custom ERPs. AI integrations. Workflow automations. We don't hand you a Notion template and call it a day. We build the entire operating system your business runs on.
+
+SYS_01 // CUSTOM_ERP
+
+### ENTERPRISE SYSTEMS
+
+Fully tailored platforms that replace your spreadsheets, disconnected tools, and manual processes. Built for YOUR industry, YOUR workflows, YOUR compliance rules. Not a template. Not a fork. Built from zero.
+
+NEXT.JSSUPABASETYPESCRIPTTAILWIND
+
+SYS_02 // AI_INTEGRATION
+
+### AI CORE
+
+Document classification. Data extraction. Automated routing. Intelligent search. AI woven into every system from day one. Never bolted on as an afterthought.
+
+#### 4-12 WEEKS
+
+DEPLOY_TIMELINE
+
+Where traditional agencies quote 6-12 months, we deliver production-ready systems in weeks. AI-assisted development. 3-5x the speed. Same production quality.
+
+SYS_03 // AUTOMATION
+
+### WORKFLOW ENGINE
+
+End-to-end process automation. Email processing, report generation, client communications, data pipelines. If it's repetitive, we kill it with code.
+
+START AUTOMATING
+
+```
+{
+  "pipeline": "inbox_to_erp",
+  "trigger": "email_received",
+  "steps": [
+    "classify_document",
+    "extract_data_with_ai",
+    "match_to_project",
+    "route_to_record",
+    "notify_stakeholder"
+  ],
+  "status": "ACTIVE",
+  "avg_processing": "< 30s"
+}
+```
+
+## FLAGSHIPBUILDS.
+
+5 of 105+ deployments. Different industries. Different countries. Different compliance regimes. Same result: production systems that replaced chaos with precision.
+
+FLAGSHIP_01 // HOSPITALITY / BALTICS
+
+### ðªðªNOMI PASS
+
+BOGO subscription platform for restaurants, bars, and hotels across Estonia, Latvia, and
