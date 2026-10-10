@@ -1,0 +1,158 @@
+URL: https://novaheimai.com
+TITLE: Novaheim AI | AI compliance operations for licensed fintechs and digital asset firms
+ERROR: None
+
+![Novaheim AI](/assets/logo/novaheim-lockup-horizontal-color-dark.svg)
+![](/assets/logo/novaheim-mark-white.svg)
+
+# Your compliance stack detects. It doesn’t investigate.
+
+Your monitoring vendor fires the alert. Everything after it — pulling account context, checking it against the KYC profile, resolving on-chain counterparties, and writing a narrative that survives examination — still costs your team four to eight hours per case.
+
+Novaheim builds the AI systems that do that work. Every determination cites its source. Your officer signs every one.
+
+![](/assets/logo/novaheim-mark-ink.svg)
+
+The alert is the cheap part.
+
+A decade of vendor spend went into detection. The cost never lived there — it lives in the hours after the alert fires, and it scales with every customer you add.
+
+![](/assets/logo/novaheim-mark-ink.svg)
+
+## AI compliance systems for licensed fintechs and digital asset firms
+
+Each system is built for your workflows, your regulatory environment, and the tools you already run. Fiat rails and on-chain, in the same case file.
+
+Automated triage of AML alerts across every rail your customers use. The system clears noise your analysts shouldn’t touch and escalates real risk with the reasoning attached.
+
+The four to eight hours between a confirmed alert and a filed SAR, compressed. The system assembles the case file and drafts the narrative, every assertion cited to source.
+
+Periodic review is where examiners find failures, and at most firms it still runs over email. The system rebuilds the file and diffs it against last cycle.
+
+An always-on agent that answers policy questions from your own documented controls. The answer your team gets is the one in your program, not a guess.
+
+Regulatory change monitoring, exam evidence assembly, vendor KYB, and compliance reporting. Each runs as a fixed-price project with a defined deliverable and a date it lands.
+
+![](/assets/logo/novaheim-mark-white.svg)
+
+## Built inside your stack. Decided before anyone opens a ticket.
+
+Novaheim builds each system in the client's own environment, then hands it over. Customer data stays where it already lives.
+
+![Novaheim](/assets/logo/novaheim-lockup-horizontal-color-dark.svg)
+![](/assets/logo/novaheim-mark-gold.svg)
+
+Runs in your cloud, on your data. Nothing routes through a Novaheim platform.
+
+More handoffs. Customer data copied into vendor tools, spreadsheets, and email.
+
+![](/assets/logo/novaheim-mark-ink.svg)
+
+## Connects to your existing stack
+
+Every system integrates with the tools your team already uses. No new platforms to learn. No rip-and-replace.
+
+![](/assets/logos/complyadvantage.png)
+![](/assets/logos/alloy-white.svg)
+![](/assets/logos/persona-white.svg)
+![](/assets/logos/trm-labs-white.svg)
+![](/assets/logos/chainalysis.webp)
+![](/assets/logos/notabene.png)
+![](/assets/logos/elliptic.png)
+![](/assets/logos/unit-white.svg)
+![](/assets/logos/synctera-white.svg)
+![](/assets/logos/treasury-prime-white.svg)
+![](/assets/logos/solana.png)
+![](/assets/logos/alchemy.png)
+![](/assets/logos/etherscan.webp)
+![](/assets/logos/thegraph.png)
+![](/assets/logos/openzeppelin.png)
+![](/assets/logos/snowflake-white.svg)
+![](/assets/logos/aws.webp)
+![](/assets/logos/azure.webp)
+![](/assets/logos/complyadvantage.png)
+![](/assets/logos/alloy-white.svg)
+![](/assets/logos/persona-white.svg)
+![](/assets/logos/trm-labs-white.svg)
+![](/assets/logos/chainalysis.webp)
+![](/assets/logos/notabene.png)
+![](/assets/logos/elliptic.png)
+![](/assets/logos/unit-white.svg)
+![](/assets/logos/synctera-white.svg)
+![](/assets/logos/treasury-prime-white.svg)
+![](/assets/logos/solana.png)
+![](/assets/logos/alchemy.png)
+![](/assets/logos/etherscan.webp)
+![](/assets/logos/thegraph.png)
+![](/assets/logos/openzeppelin.png)
+![](/assets/logos/snowflake-white.svg)
+![](/assets/logos/aws.webp)
+![](/assets/logos/azure.webp)
+![](/assets/logo/novaheim-mark-ink.svg)
+
+## How we compare
+
+An analyst understands the regulation; the question is whether one more analyst clears the backlog inside the 30-day window.
+
+![Bradley Behan](/assets/founder.webp)
+![](/assets/logo/novaheim-mark-ink.svg)
+
+## Meet the founder
+
+I build the systems that handle what happens after the alert fires.
+
+My background is statistics and applied analytics — seven years measuring model performance, false positive rates, and where automated systems fail. That discipline is what AML programs need and rarely have: monitoring stacks get tuned on intuition, and few teams can show an examiner why a threshold sits where it does.
+
+I work across BSA/AML, OFAC, FATF Travel Rule, and the GENIUS Act stablecoin rules, and I read chains directly rather than relying on a vendor’s attribution. Most compliance stacks see the fiat leg and go blind at the chain boundary. That gap is why Novaheim exists.
+
+![](/assets/logo/novaheim-mark-ink.svg)
+
+## Frequently asked questions
+
+If your question isn’t here, a discovery call is thirty minutes and costs nothing.
+
+Thirty minutes on your compliance operation — alert volume, false positive rate, where the hours concentrate, and what your next exam or audit looks like.
+
+If there’s a fit, the next step is a paid three-week Compliance Automation Diagnostic: structured interviews, a full workflow review, and a measured baseline of where your program actually stands. No generic pitch deck. No obligation.
+
+A paid three-week independent assessment of your AML operations, delivered as a dated, sourced document you can keep in the exam file.
+
+It produces something most firms have never had: a measured baseline. Not estimates — actual alert volume, actual false positive rate by rule, actual hours per case, actual time from determination to filing, and a clear statement of which thresholds have documented rationale and which don’t.
+
+It ends in a fixed-scope, fixed-price implementation proposal, so there’s no second discovery process. 50% credits toward the build if you proceed within 90 days.
+
+Some firms take the assessment and act on it internally. That’s a legitimate outcome, and the reason it’s priced as real work rather than as a sales step.
+
+Minimal. After the first call, we handle the technical work. Most builds require 3–5 hours of your team’s time across a few weeks for workflow input and review. You stay focused on your product and your users. We come to you only when a decision requires your judgment.
+
+Primarily US. We take selected engagements in English-operating markets where we can read every artifact the system produces — including the UK, Ireland, Canada, and much of EU fintech, where compliance functions run in English.
+
+
+[... middle omitted — see footer ...]
+
+
+Most compliance stacks handle fiat transaction data well and go blind at the chain boundary. We work across both — which matters more every quarter, as stablecoin flows land in companies that were never built to investigate them.
+
+You own the system outright — the code, the configuration, the documentation. That doesn’t change, and there’s no platform subscription. What’s ongoing is the evidence cycle: quarterly evaluation runs, prompt and model version control, and updates when the rules move. Most firms keep that in place rather than build the capability in-house. If you’d rather take it over, I’ll document handover and step away.
+
+We measure against your baseline from day one, so ROI is concrete rather than claimed. The diagnostic establishes that baseline — alert volume, false-positive rate, hours per case, time-to-file — before anything is built. Most firms have never measured these, which is why the diagnostic is useful whether or not you continue with us.
+
+The common wins show up within the first month: fewer false positives reaching analysts, faster case throughput, and shorter time from determination to filing.
+
+Most AI tools fail for one of two reasons: they solve the wrong problem, or nobody adopts them. We avoid the first by starting with a specific workflow that’s already costing you measurable hours. We avoid the second by building around how your team actually works — and staying through adoption before we step away.
+
+The deeper reason off-the-shelf tools underperform here is that they sit on top of fragmented data. Detection quality is limited by what the system can see, and most stacks can’t see across fiat and on-chain in the same case. That’s the layer we build.
+
+![](/assets/logo/novaheim-mark-white.svg)
+
+## The backlog isn’t an efficiency problem. It’s a finding.
+
+When alert volume outruns team capacity, the 30-day clock doesn’t move. Let’s find the workflow costing you the most and build the system that clears it — with an audit trail on every determination.
+
+![Novaheim AI](/assets/logo/novaheim-lockup-horizontal-color-dark.svg)
+
+──────── [TRUNCATED] ────────
+Showing 6,577 chars (head) + 2,086 chars (tail) of 11,135 total clean characters.
+Full text saved to: /home/user/.hermes/cache/web/novaheimai.com-fe611430e8.md
+To read the omitted middle: read_file path="/home/user/.hermes/cache/web/novaheimai.com-fe611430e8.md" offset=126 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────
