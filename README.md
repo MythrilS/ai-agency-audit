@@ -32,7 +32,6 @@ For each agency, from its own public site:
 
 - `chunk-1.csv` (41, Google/listicles) · `chunk-2.csv` (44, marketplaces) · `chunk-3.csv` (23, YouTube) · `chunk-4.csv` (39, X/LinkedIn)
 - `signals.json` — raw classification signals per agency
-- `REPORT.md` — full writeup
 - `audit-chart.png` + `make_chart.py` — the visualization and how it's generated
 
 *Collected 2026-10-07. Every row carries the source URL — verify any of it yourself.*
